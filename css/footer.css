@@ -1,0 +1,24 @@
+.footer {
+  border-top: 2px solid #ccc;
+  height: 150px;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.sociais {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  justify-content: space-between;
+}
+
+.sociais img {
+  width: 30px;
+}

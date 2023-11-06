@@ -1,0 +1,36 @@
+.contratar {
+  text-align: center;
+  color: #fff;
+  background-color: #00a8cc;
+  padding: 50px;
+  border-radius: 20px;
+  margin-bottom: 100px;
+}
+
+.contratar-text h2 {
+  font-size: 1.75rem;
+  font-weight: 600;
+  padding-bottom: 20px;
+}
+
+.contratar-text p {
+font-size: 1.25rem;
+padding-bottom: 40px;
+}
+
+.contratar-text a {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #007ecc;
+  background-color: #fff;
+  padding: 10px 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
+
+}
+
+.contratar a:hover {
+  color: #fff;
+  background-color: #007ecc;
+  box-shadow: 0 0 1rem rgba(255, 255, 255, 1);
+}

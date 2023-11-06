@@ -1,0 +1,46 @@
+.dicas {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.dicas-content-1 {
+  text-align: center;
+}
+
+.dicas-content-1 h2, .dicas-content-2 h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  padding-bottom: 20px;
+}
+
+.dicas-content-1 p {
+  font-size: 1rem;
+  padding-bottom: 50px;
+  width: 800px;
+  margin: auto;
+  line-height: 1.75rem;
+}
+
+.dicas-content-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  margin-top: 70px;
+  gap: 10px;
+}
+
+.dicas-content-2 h2 {
+  font-weight: 500;
+}
+
+.dicas-content-2 p {
+  line-height: 1.75rem;
+}
+
+.dicas-content-2 span {
+  color: #007ecc;
+}
+
+.dicas-content-2 img {
+  width: 400px;
+}

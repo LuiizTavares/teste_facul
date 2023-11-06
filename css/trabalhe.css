@@ -1,0 +1,77 @@
+.trabalhe-bg {
+  color: #fff;
+  background-color: #00a8cc;
+  padding: 70px;
+}
+
+.trabalhe-text {
+  border-bottom: 2px solid #fff;
+}
+
+.trabalhe-text h2 {
+font-size: 2rem;
+font-weight: 600;
+text-align: center;
+padding-bottom: 30px;
+}
+
+.trabalhe-text p {
+  font-size: 1rem;
+  font-weight: 500;
+  text-align: center;
+  width: 800px;
+  margin: auto;
+  padding-bottom: 70px;
+}
+
+.cadastro-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  align-items: center;
+  gap: 50px;
+  padding-top: 70px;
+}
+
+.card {
+  height: 550px;
+}
+
+.card h3 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  padding: 30px 0px;
+  text-align: center;
+}
+
+.card li {
+  font-size: 1rem;
+  font-weight: 400;
+  margin-bottom: 25px;
+}
+
+.card img {
+  width: 150px;
+  margin: auto;
+}
+
+.cadastro {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.cadastro a {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #007ecc;
+  background-color: #fff;
+  padding: 10px 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
+}
+
+.cadastro a:hover {
+  color: #fff;
+  background-color: #007ecc;
+  box-shadow: 0 0 1rem rgba(255, 255, 255, 1);
+}

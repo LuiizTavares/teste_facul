@@ -1,0 +1,34 @@
+.beneficios-bg {
+  color: #fff;
+  background-color: #00a8cc;
+  padding-top: 70px;
+  padding-bottom: 100px;
+}
+
+.beneficios-text {
+  text-align: center;
+  font-size: 1rem;
+  text-transform: uppercase;
+  padding-bottom: 70px;
+}
+
+.beneficios-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+  text-align: center;
+  gap: 40px;
+}
+
+.cards {
+  color: #000;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 30px;
+  max-width: 300px;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
+}
+
+.cards h3 {
+  padding-bottom: 10px;
+}

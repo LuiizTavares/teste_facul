@@ -1,0 +1,119 @@
+Paleta de Cor: Roxo Claro, Azul Piscina
+
+
+Titulo - Daily Routine
+
+
+// Primeira Camada //
+
+// Contrate as Melhores Diaristas
+Encontre as melhores diaristas sem sair de casa.
+
+button: Contrate Agora //
+
+
+// IMAGEM //
+
+
+// IMAGEM //
+
+
+// Contratar diarista de confiança e qualificada ficou mais simples com a Daily Routine. 
+Você indica alguns dados sobre a sua casa ou escritório e a gente calcula quantas horas serão necessárias para a limpeza. 
+Você ainda escolhe o serviço na data e hora de sua preferência.  Pague com cartão de crédito ou em dinheiro/pix.//
+
+// ------------------------------------------------------------ //
+
+
+
+// Segunda Camada //
+
+
+//Os Melhores Benefícios
+Para contratar diaristas//
+
+//Cards//
+
+//Profissionais diferenciados//
+Contrate diretamente pelo aplicativo profissionais diferenciados.
+
+//Limpeza Personalizada//
+Confiança, segurança e praticidade nos serviços de limpeza para o seu lar.
+
+//Pagamento Facilitado//
+A escolha perfeita para quem procura limpezas express a preço justo.
+
+
+// ------------------------------------------------------------ //
+
+
+// Terceira Camada //
+
+
+// Como Contratar um Bom Diarista? //
+
+// Para contratar uma diarista a melhor opção é na Daily Routine. 
+A forma mais simples, fácil e segura para encontrar uma profissional de limpeza confiável a um preço justo é acessar o nosso site ou aplicativo. 
+Contamos com diaristas experientes que vão te entregar a melhor limpeza e bem-estar a um preço justo.//
+
+
+
+
+//IMAGE//
+
+//Segurança na hora de contratar pelo Celular//
+
+//Praticidade e segurança na palma da sua mão! Em menos de 3 minutos, 
+você pode contratar uma limpeza com o nosso aplicativo e receber a melhor profissional na sua casa ou empresa. 
+Escolha o serviço na data e hora de sua preferência.//
+
+
+// ------------------------------------------------------------ //
+
+// Quarta Camada //
+
+//Quer ser uma diarista Daily Routine?//
+
+A Daily Routine conecta centenas de clientes a profissionais de limpeza próximos a sua localidade. 
+O serviço de diarista é indicado para quem quer trabalhar com autononomia, escolher quando e onde prestar serviços e ter um aumento de renda imediato. 
+Faça parte da Daily Routine.
+
+// Cards de como funciona o cadastro? page: parafuzo.com/trabalhe //
+
+
+// Button: Faça seu cadastro //
+
+
+// Como é feito o cálculo do serviço realizado pela diarista? //
+
+// Com a Parafuzo, o serviço da diarista é calculado por metros quadrados a partir das características da sua casa ou escritório e 
+daquilo que você precisa para deixar tudo limpo e organizado. //
+
+// ------------------------------------------------------------ //
+
+// Quinta Camada //
+
+//Contrate agora//
+
+//Encontre a melhor diarista a um preço justo//
+
+//Button: Meu lar//
+
+// ------------------------------------------------------------ //
+
+// Footer // 
+
+// Redes Sociais //
+
+// Button pra App Android e IOS//
+
+// Contatos Inventados //
+
+
+
+
+// 2 PÁGINA PRA CHECKOUT //
+
+
+// Limpeza Padrao e Pesada // Button
+

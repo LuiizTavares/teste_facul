@@ -1,0 +1,17 @@
+.calculo {
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.calculo-text h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  padding-bottom: 30px;
+}
+
+.calculo-text p {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  margin: auto;
+  width: 700px;
+}
